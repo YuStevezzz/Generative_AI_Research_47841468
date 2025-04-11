@@ -1,5 +1,4 @@
 
 This project is organised by various folders, separated into Literature_Review, Quantitative_Anaylisis, Draft_Reports and Additional_Materials.
 
-Literature review contanis any articles or
-d
+This project is organised into several folders: Literature_Review, Quantitative_Analysis, Draft_Reports, and Additional_Materials. The Literature_Review folder includes all articles, books, and reference materials used in the study. Quantitative_Analysis contains survey questions, raw data files (like CSV or Excel), Python scripts for analysis, visuals, and the final report. Draft_Reports stores all versions of the research proposals, conference papers, and final reports. Additional_Materials includes interview consent forms, transcripts, photos, and other resources. All files follow a clear naming convention to make them easy to find, and sensitive files are stored with limited access for security.
